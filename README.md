@@ -83,6 +83,3 @@ src/
 └── lib/                  # Stores, utilities, Supabase client
 ```
 
-## License
-
-MIT
